@@ -1,23 +1,21 @@
-# Overview
+# Software Portfolio
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This repository will have  proyects, in where I´ll show my experience developing projects with React, Firebase and more.
 
-{Provide a description of your software}
+I´ll be actualizing this File because right now it only have one program which display the "Hello World" sentence. 
 
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+The porpuse for creating this projects is to show my knowledge and start learning the framework of React.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+Tech I´ll be using:
+React
+Javascript
+CSS
+HTML
+Firebase
 
-{Describe the programming language that you used}
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Web Site Name]([http://url.link.goes.here](https://react.dev/))
+* [Web Site Name]((https://firebase.google.com/gad_source=1&gclid=Cj0KCQiAhbi8BhDIARIsAJLOluccuTTTVpW3f5FqNHWZsVPlWbTpgafQM4vuENUs6mPaULPx3hzumw4aAs44EALw_wcB&gclsrc=aw.ds))
