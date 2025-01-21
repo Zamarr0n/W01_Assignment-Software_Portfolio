@@ -17,5 +17,5 @@ Firebase
 
 
 # Useful Websites
-* [Web Site Name]([http://url.link.goes.here](https://react.dev/))
-* [Web Site Name]((https://firebase.google.com/gad_source=1&gclid=Cj0KCQiAhbi8BhDIARIsAJLOluccuTTTVpW3f5FqNHWZsVPlWbTpgafQM4vuENUs6mPaULPx3hzumw4aAs44EALw_wcB&gclsrc=aw.ds))
+* [Web Site Name](https://react.dev/)
+* [Web Site Name](https://firebase.google.com/gad_source=1&gclid=Cj0KCQiAhbi8BhDIARIsAJLOluccuTTTVpW3f5FqNHWZsVPlWbTpgafQM4vuENUs6mPaULPx3hzumw4aAs44EALw_wcB&gclsrc=aw.ds)
